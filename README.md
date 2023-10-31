@@ -7,13 +7,12 @@
 
 Term: Fall 2023
 
-+ Team ##
++ Team 5
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
+	+ Yoojin Lee
+	+ Zhaolin Wang
+	+ Shaohuan Wu
+
 
 + Project summary: In this project, we created ...
 	
