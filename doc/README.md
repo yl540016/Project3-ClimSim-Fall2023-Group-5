@@ -6,3 +6,4 @@ The doc directory contains four files :
 - 3. Notes on Contributions file (*.md file*)
 - 4. Project 3 Description file (*.md file*)
 - 5. Our own CNN Model Documentation(*pdf file*)
+- 6. the quickstart notebook implemented on Google Colab (*ipynb file*)
