@@ -1,3 +1,3 @@
 ### Output folder
 
-The output directory contains `quickstart_example.ipynb` Jupyter Notebook, where we have also included **our own easily implementable CNN model**, along with our own guideline and useful information about the ClimSim project.
+The output directory contains `ClimSim_quickstart_Group5.ipynb` Jupyter Notebook which is our final result for this project and its `html` format file for the Jupyter Notebook.
