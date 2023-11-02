@@ -11,7 +11,7 @@ README about the contribution statement.
 **[Contribution Statement]** 
 -  Yoojin Lee: Wrote the report for Challenge 1. Provided instructions in a Python Notebook when implementing the ClimSim notebook. Produced, revised, and finalized the notebook file. Evaluated models, created visualized plots, and compared them using four evaluation metrics with validation and scoring data. Wrote the README, put everyone’s work together and uploaded them in GitHub.
 
-- Zhaolin Wang: Wrote the report for Challenge 1. Set the environment and mounted Google Drive to the /content/drive directory on the Colab. Trained CNN models and evaluated with scoring data. Wrote documentation about CNN model.
+- Zhaolin Wang: Wrote the report for Challenge 1. Set the environment and mounted Google Drive to the /content/drive directory on the Colab. Trained and saved CNN models.  Created visualized plots and evaluated with scoring data. Wrote explainations and documentation about CNN model.
 
 - Shaohuan Wu: Wrote the report for Challenge 1. Implemented the quickstart notebook on Google Colab by using Google Drive. Assisted in organizing github files and wrote the project summary.
 
