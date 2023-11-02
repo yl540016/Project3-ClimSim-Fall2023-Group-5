@@ -1,8 +1,5 @@
 README about the contribution statement.
 
----
-README about the contribution statement.
-
 --
 
 ## Project 3
