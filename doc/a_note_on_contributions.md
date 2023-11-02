@@ -1,7 +1,11 @@
 README about the contribution statement.
 
 ---
-Project 3
+README about the contribution statement.
+
+--
+
+## Project 3
 
 **Team members**: Yoojin Lee, Zhaolin Wang, Shaohuan Wu, Yufei Wang, Nashita Rahman, Haoyu Wang
 
